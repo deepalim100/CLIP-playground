@@ -23,5 +23,16 @@ Learn more in the official paper:
 ```bash
 git clone https://github.com/your-username/clip-lab.git
 cd clip-lab
-pip install -r requirements.txt
+pip install -r requirements.txt (coming soon)
+
+Make sure you have PyTorch and transformers installed. You can run notebooks locally or on Google Colab/Kaggle.
+
+🖼️ Example Outputs
+<p align="center"> <img src="assets/similarity-heatmap.png" width="500"/> <br/> <em>Cosine similarity heatmap between image and text embeddings</em> </p>
+💡 Try It Yourself
+Clone this repo and play with your own images and prompts in the clip_inference.ipynb notebook. The magic begins with just a few lines of code!
+
+🙌 Author
+Built with ❤️ by Deepali Mishra
+Follow the full blog series here: 30 Days of Vision-Language Models (https://medium.com/@deepsiya10/list/vision-language-model-2dbb78e6c6e7)
 
