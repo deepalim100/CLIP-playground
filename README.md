@@ -1,0 +1,2 @@
+# CLIP-playground
+Exploring CLIP
