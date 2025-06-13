@@ -1,7 +1,7 @@
 # CLIP-playground
-# 🎯 CLIP Lab: Experiments with Contrastive Language–Image Pretraining
+# 🎯  CLIP-playground: Experiments with Contrastive Language–Image Pretraining
 
-Welcome to the CLIP Lab — a curated set of hands-on experiments and tutorials around OpenAI's [CLIP](https://openai.com/index/clip) model. From zero-shot magic to architectural breakdowns and fine-tuning — this repo documents the full journey. 🚀
+Welcome to the  CLIP-playground— a curated set of hands-on experiments and tutorials around OpenAI's [CLIP](https://openai.com/index/clip) model. From zero-shot magic to architectural breakdowns and fine-tuning — this repo documents the full journey. 🚀
 
 ## 📌 What’s Inside
 
