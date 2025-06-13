@@ -21,8 +21,8 @@ Learn more in the official paper:
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/clip-lab.git
-cd clip-lab
+git clone https://github.com/your-username/clip-lab.git](https://github.com/deepalim100/CLIP-playground.git
+cd CLIP-playground
 pip install -r requirements.txt (coming soon)
 ```
 Make sure you have PyTorch and transformers installed. You can run notebooks locally or on Google Colab/Kaggle.
