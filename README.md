@@ -24,7 +24,7 @@ Learn more in the official paper:
 git clone https://github.com/your-username/clip-lab.git
 cd clip-lab
 pip install -r requirements.txt (coming soon)
-
+```
 Make sure you have PyTorch and transformers installed. You can run notebooks locally or on Google Colab/Kaggle.
 
 💡 Try It Yourself
