@@ -27,8 +27,6 @@ pip install -r requirements.txt (coming soon)
 
 Make sure you have PyTorch and transformers installed. You can run notebooks locally or on Google Colab/Kaggle.
 
-🖼️ Example Outputs
-<p align="center"> <img src="assets/similarity-heatmap.png" width="500"/> <br/> <em>Cosine similarity heatmap between image and text embeddings</em> </p>
 💡 Try It Yourself
 Clone this repo and play with your own images and prompts in the clip_inference.ipynb notebook. The magic begins with just a few lines of code!
 
